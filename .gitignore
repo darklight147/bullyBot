@@ -1,4 +1,4 @@
 node_modules
-distchannelID.config.ts
+channelID.config.ts
 token.config.ts
 dist
